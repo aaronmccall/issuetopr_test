@@ -1,0 +1,19 @@
+{
+  "name": "issuetopr_test",
+  "version": "0.0.0",
+  "description": "issuetopr_test ==============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aaronmccall/issuetopr_test.git"
+  },
+  "author": "Aaron McCall <aaron@andyet.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaronmccall/issuetopr_test/issues"
+  },
+  "homepage": "https://github.com/aaronmccall/issuetopr_test"
+}
